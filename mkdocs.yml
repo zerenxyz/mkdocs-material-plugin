@@ -1,0 +1,4 @@
+site_name: My Docs
+repo_url: https://github.com/zerenxyz/mkdocs-material-plugin.git
+theme:
+  name: material
